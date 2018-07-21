@@ -1,4 +1,4 @@
 # notes
 react native notes
 
-![alt text](https://github.com/aslanshapso/notes/master/assets/notes.jpg)
+![Alt text](assets/notes.jpg?raw=true "Title")
